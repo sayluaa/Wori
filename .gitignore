@@ -1,0 +1,22 @@
+# 사진
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# 영상
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 데이터 폴더 통째로 제외
+captured_images/
+dataset/
+runs/
+
+# 기타
+__pycache__/
+.venv/
+*.zip
