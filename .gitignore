@@ -17,6 +17,9 @@ dataset/
 runs/
 
 # 기타
+# 기타
 __pycache__/
 .venv/
 *.zip
+*.pt
+.env
